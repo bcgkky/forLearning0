@@ -1,2 +1,2 @@
-cam_Pos
+cam_Pos *
 ball_Move
